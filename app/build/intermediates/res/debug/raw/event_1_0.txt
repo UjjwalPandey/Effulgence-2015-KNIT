@@ -1,0 +1,9 @@
+In this event you have to make an autonomous robot which will travel the arena and will defuse the mines.
+
+The robot should follow the path and upon reaching on a mine he should wait there for defusing and give indication of defusal by glowing LED.
+
+
+Contact Us:
+1.Akshaya Ambedkar: (+91)8808972234
+2.Anshul Gupta: (+91)9808354220
+3.Tarun Bhardwaj: (+91)8181900497

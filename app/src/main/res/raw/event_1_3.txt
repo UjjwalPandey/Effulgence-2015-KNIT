@@ -1,0 +1,5 @@
+It is an event of manual robot which could be wired or wireless.
+The bot should be capable of moving on rough, sandy and elevated surface.
+Your bot should be made in such a way that it can move in water, although it should NOT specifically an amphibian bot.
+The objective of the bot will be to steal the pillars, building blocks and pyramids.
+After stealing them it should construct the mansion for GRU.

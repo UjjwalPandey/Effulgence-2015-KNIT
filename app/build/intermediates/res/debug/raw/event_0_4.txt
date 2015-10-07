@@ -1,0 +1,5 @@
+Traverse the graph and help Harry to save Ginny! 
+The graph is a map which represents the interior of the Chamber. Answer questions for every edge. Hints are available but beware, monsters are waiting! Their number decides the difficulty level of the edge you choose.
+
+Contact:
+Manish Chauhan 9198948734

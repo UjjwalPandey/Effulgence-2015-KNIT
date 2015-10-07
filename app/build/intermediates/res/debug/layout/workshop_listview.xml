@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_all"
+    tools:context=".WorkshopListActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/LvWorkshopList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ujjwal%20Pandey/Desktop/Effulgence1/app/src/main/res/layout/workshop_listview.xml -->

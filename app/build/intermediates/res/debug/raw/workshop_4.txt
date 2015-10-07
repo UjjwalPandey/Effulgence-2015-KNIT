@@ -1,0 +1,11 @@
+MATLAB is organized by CETPA Infotech Pvt. Limited.
+The course is a blend of MARLAB and Embedded systems.
+It will comprise of programming in MATLAB using ARDUNIO micro controllers.
+IT is one of the most advanced course in the industry.
+
+
+This workshop requires a team of atleast two participants.
+Team Members Cost per participant
+4 members Rs. 600
+3 members Rs. 750
+2 members Rs. 900

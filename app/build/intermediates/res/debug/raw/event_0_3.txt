@@ -1,0 +1,12 @@
+This is a team event comprising of teams of either 2 or 3 members.
+
+Each team has to choose one problem from problem set given above and complete their project on the platform mentioned with the problem (Android, JSP or PHP).
+
+Interested teams will have to send a SRS in PDF format to effulgenceappdev@outlook.com with the subject "SRS (team name) (platform)" without parentheses or inverted commas
+
+The last date to send SRS for the problem is Wednesday, 22nd March 2015 (11:59 pm).
+
+
+Contact-
+Nitish Tripathi: (+91)9451842485
+Irfan Ahmad: (+91)8005381618

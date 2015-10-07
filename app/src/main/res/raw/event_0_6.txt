@@ -1,0 +1,11 @@
+In this event, participants will get 5 questions.
+Participants have to write the codes for that problem in given 
+environment where following keys will not work that are
+
+Backspace, Del, Home, End
+
+Once you make mistake while coding you cannot change the code.
+
+Contacts:
+Avishkar Verma: (+91)9648850041
+Sulabh Singh: (+91)8896700606

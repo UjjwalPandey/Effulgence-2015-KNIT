@@ -1,0 +1,18 @@
+<resources>
+    <string name="google_maps_key_instructions" templateMergeStrategy="replace"><!--
+
+
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FE:06:E1:CB:29:DF:97:48:3A:6E:B2:F9:87:E5:15:D8:7A:D8:E6:97%3Bcom.knit.effulgence
+
+    You can also add your credentials to an existing key, using this line:
+    FE:06:E1:CB:29:DF:97:48:3A:6E:B2:F9:87:E5:15:D8:7A:D8:E6:97;com.knit.effulgence
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    --></string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyCU9v85SdFAD__5HxiyfFRcnDeJVOR8-PU</string>
+</resources>

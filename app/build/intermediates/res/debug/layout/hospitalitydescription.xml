@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:background="@drawable/background_all"
+    tools:context=".WorkshopDescription">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/clHospitalityDescription"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ujjwal%20Pandey/Desktop/Effulgence1/app/src/main/res/layout/hospitalitydescription.xml -->

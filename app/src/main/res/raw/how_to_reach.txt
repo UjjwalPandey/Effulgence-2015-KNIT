@@ -1,0 +1,10 @@
+FROM RAILWAY STATION:
+
+Hire a cycle-rickshaw up to GOLAGHAT (Max Fare Rs.20 per head) then catch a auto rickshaw (Route Number 1) to KNIT (Max. fare Rs.7 per head)
+
+FROM BUS STAND:
+
+Walk upto GOLAGHAT (around 300 meters) then catch a auto rickshaw (Route Number 1) to KNIT (Max. fare Rs.7 per head)
+
+
+NOTE: For more details please go to the Map provided under "VISIT" tab.

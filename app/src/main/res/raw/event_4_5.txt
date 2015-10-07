@@ -1,0 +1,6 @@
+Objective is to design a mechanical cart which is totally mechanically operated and manually controlled.
+It is deprived of any electric power unit or devices.
+
+Description:
+There will be a track consisting of difficult terrains and topography such as rough roads sandy and dusty tracks etc.
+The contestants are required to drive their cart from starting point to the finishing point, through this track in minimum possible time.

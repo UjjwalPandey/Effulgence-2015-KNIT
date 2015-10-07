@@ -1,0 +1,8 @@
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\classes\debug
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-7d6ffd774c6504632990a2f3b10f2c698d37ccab.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\classes-3e219fa05afd0c91085edbf64218b8f90020f2ed.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-101671a81de087be018b1535236a779f4985dd5c.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\classes-4a758ffe8898975887523f486b88fb9e7267160f.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\classes-768dd13a4490b2d9bc9af6565659cca7f1718cff.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\classes-c1a30fcbecc5f8f2bf2c870ac3ecce691d77bcbe.jar
+C:\Users\Ujjwal Pandey\Desktop\Effulgence1\app\build\intermediates\pre-dexed\debug\classes-35e98c3f61c2aa3964bd3611c834f9e49765112e.jar

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Effulgence</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_general">Home</string>
+    <string name="news">NEWS</string>
+    <string name="categories">Categories</string>
+    <string name="maps">Maps</string>
+    <string name="about">About</string>
+    <string name="Event">Events</string>
+    <string name="Workshop">Workshop</string>
+    <string name="Sponsors">Sponsors</string>
+    <string name="title_activity_branch">Branch</string>
+    <string name="title_activity_workshops">Workshops</string>
+    <string name="title_activity_sponsors">Sponsors</string>
+    <string name="title_activity_event_description">Description</string>
+    <string name="title_activity_event_list">Events List</string>
+    <string name="title_activity_workshop_description">Description</string>
+    <string name="event_image">Image for the given Event</string>
+    <string name="map">Map</string>
+    <string name="hospitality">Hospitality</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,17 @@
+There will be 3 rounds in the whole event.
+
+Robo-racing:
+
+The bots will be placed at the black circle and should traverse the arena clock-wise.The bot which reaches earlier to the next black circle will qualify for the next round.
+Proper combination between accuracy and speed will be the key to win.
+
+* Bot has to travel the 6*6 grid crossing through each node as shown by colored line.
+
+* The bot which will take minimum time to complete the grid will mark it's entry to next round.
+In this event the bot has to complete the grid passing through the given node (as shown by red circle) via shortest path from starting to end point .
+
+* The co-ordinate of the node (which may differ for different teams) will be given before the starting of the event.
+
+Contact Us:
+Shivam Agarwal: (+91)9457743300
+Devesh Singh : (+91)7785967808
